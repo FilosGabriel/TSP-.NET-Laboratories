@@ -9,7 +9,8 @@ namespace Lab4.Model
         public DbSet<Person> Persons { get; set; }
         public DbSet<Album> Albums { get; set; }
         public DbSet<Artist> Artists { get; set; }
-
+        // am folosit conventiile pentru relatii si key primare
+        //mai multe detailii https://www.learnentityframeworkcore.com/conventions
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
