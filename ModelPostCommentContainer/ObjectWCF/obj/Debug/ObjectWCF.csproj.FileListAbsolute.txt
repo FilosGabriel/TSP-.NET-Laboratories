@@ -1,0 +1,14 @@
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\Laborator6.dll
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\Laborator6.pdb
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\Laborator6.dll.config
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\obj\Debug\ObjectWCF.pdb
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\ObjectWCF.dll.config
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filos\source\repos\data\ModelPostCommentContainer\ObjectWCF\bin\Debug\EntityFramework.SqlServer.xml
