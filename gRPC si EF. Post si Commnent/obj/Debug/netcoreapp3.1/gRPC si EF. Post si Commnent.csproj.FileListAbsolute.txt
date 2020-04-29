@@ -1,0 +1,58 @@
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.exe
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.deps.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.runtimeconfig.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.runtimeconfig.dev.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.pdb
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\staticwebassets\gRPC si EF. Post si Commnent.StaticWebAssets.Manifest.cache
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\staticwebassets\gRPC si EF. Post si Commnent.StaticWebAssets.xml
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.AssemblyInfoInputs.cache
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.AssemblyInfo.cs
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.RazorTargetAssemblyInfo.cache
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.csproj.CopyComplete
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.pdb
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\database.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\bin\Debug\netcoreapp3.1\database.pdb
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\gRPC si EF. Post si Commnent\obj\Debug\netcoreapp3.1\gRPC si EF. Post si Commnent.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\bin\Debug\netcoreapp3.1\database.deps.json
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\bin\Debug\netcoreapp3.1\database.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\obj\Debug\netcoreapp3.1\database.AssemblyInfoInputs.cache
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\obj\Debug\netcoreapp3.1\database.AssemblyInfo.cs
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\bin\Debug\netcoreapp3.1\database.pdb
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\obj\Debug\netcoreapp3.1\database.dll
+C:\Users\filos\source\repos\gRPC si EF. Post si Commnent\database\obj\Debug\netcoreapp3.1\database.pdb

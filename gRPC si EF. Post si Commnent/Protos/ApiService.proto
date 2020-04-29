@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC2";
+
+
+service MyService{
+	rpc AddPost (RequestPost) returns (Response);
+	rpc UpdatePost (RequestPost) returns  (ResponsePost);
+	rpc DeletePost (RequestById) returns (Response);
+	rpc GetPostById (RequestById) returns (ResponsePost);
+	rpc GetAllPosts (RequestById) returns (ResponseListPost);
+
+	rpc AddComment (RequestComment) returns (ResponseComment);
+	rpc UpdateComment (RequestComment) returns (ResponseComment);
+	rpc GetCommentById (RequestById) returns (ResponseComment);
+}
+
+
+message RequestById{
+	string id = 1;
+}
+
+message RequestPost{
+	 string PostId = 1;
+     string Description = 2;
+     string Domain = 3;
+     string Date = 4;
+}
+message RequestComment{
+	string CommentId = 1;
+	string Text = 2;
+	string PostPostId = 3;
+	RequestPost post = 4;
+}
+
+
+
+message ResponseListPost{
+	repeated RequestPost posts = 1;
+}
+message ResponsePost{
+	RequestPost post = 1;
+}
+message ResponseComment{
+	RequestComment comment = 1;
+}
+message Response{
+	string message = 1;
+}
