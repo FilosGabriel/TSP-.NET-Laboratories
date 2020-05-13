@@ -1,0 +1,17 @@
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\Client2.exe.config
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\Client2.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\Client2.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Security.Permissions.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\bin\Debug\System.Private.ServiceModel.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.csprojAssemblyReference.cache
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.Form1.resources
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.csproj.CopyComplete
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client2\obj\Debug\Client2.pdb

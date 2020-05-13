@@ -1,0 +1,16 @@
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\Host.exe.config
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\Host.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\Host.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\ObjectWCF.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\PostComment.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\EntityFramework.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\ObjectWCF.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\PostComment.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\PostComment.dll.config
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\EntityFramework.xml
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\obj\Debug\Host.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\obj\Debug\Host.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Host\bin\Debug\EntityFramework.SqlServer.xml

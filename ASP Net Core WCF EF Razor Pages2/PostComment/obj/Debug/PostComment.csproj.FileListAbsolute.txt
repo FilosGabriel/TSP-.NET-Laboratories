@@ -1,0 +1,11 @@
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\PostComment.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\PostComment.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\obj\Debug\PostComment.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\obj\Debug\PostComment.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache

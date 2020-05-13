@@ -1,0 +1,14 @@
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\Client.exe.config
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\Client.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\Client.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Security.Permissions.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\bin\Debug\System.Private.ServiceModel.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\obj\Debug\Client.exe
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\Client\obj\Debug\Client.pdb

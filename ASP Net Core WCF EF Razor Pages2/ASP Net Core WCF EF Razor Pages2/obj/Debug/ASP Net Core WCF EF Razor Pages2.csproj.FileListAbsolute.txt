@@ -1,0 +1,5 @@
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\ASP Net Core WCF EF Razor Pages2\bin\Debug\ASP Net Core WCF EF Razor Pages2.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\ASP Net Core WCF EF Razor Pages2\bin\Debug\ASP Net Core WCF EF Razor Pages2.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\ASP Net Core WCF EF Razor Pages2\obj\Debug\ASP Net Core WCF EF Razor Pages2.dll
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\ASP Net Core WCF EF Razor Pages2\obj\Debug\ASP Net Core WCF EF Razor Pages2.pdb
+C:\Users\filos\source\repos\ASP Net Core WCF EF Razor Pages2\ASP Net Core WCF EF Razor Pages2\obj\Debug\ASP Net Core WCF EF Razor Pages2.csprojAssemblyReference.cache
